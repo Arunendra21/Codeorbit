@@ -27,6 +27,7 @@ const app = express();
 // CORS configuration
 const corsOptions = {
   origin: [
+    "https://codeorbit-psi.vercel.app/",
     "http://localhost:3000",
     "https://codeorbit-sage.vercel.app",
     "https://codeorbit-git-main-arpit-srivastavas-projects-4aa240ca.vercel.app",
