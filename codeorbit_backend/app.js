@@ -29,9 +29,7 @@ const corsOptions = {
   origin: [
     "https://codeorbit-psi.vercel.app/",
     "http://localhost:3000",
-    "https://codeorbit-sage.vercel.app",
-    "https://codeorbit-git-main-arpit-srivastavas-projects-4aa240ca.vercel.app",
-    "https://codeorbit-9eqzasyrb-arpit-srivastavas-projects-4aa240ca.vercel.app"
+    
   ],
   credentials: true,
   optionsSuccessStatus: 200,
