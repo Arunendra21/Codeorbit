@@ -28,7 +28,7 @@ const app = express();
 const corsOptions = {
   origin: [
     "https://codeorbit-psi.vercel.app/",
-    "http://localhost:3000",
+    "http://localhost:3000"
     
   ],
   credentials: true,
